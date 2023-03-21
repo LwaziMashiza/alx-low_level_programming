@@ -1,5 +1,4 @@
-#include <main.h>
-#include <unistd.h>
+#include "main.h"
 
 /**
  * main - Prints lower case alphabets by calling a function
