@@ -1,8 +1,7 @@
-Doubly Linked Lists Project
+Doubly linked lists project 
 
-In this project we expect the following objectives to be achieved:
-What is a doubly linked list
-How to use doubly linked lists
+In this project the below objectives must be met:
 
-Yout tube video link on doubly linked lists:
-https://youtu.be/e9NG_a6Z0mg
+1.What is a doubly linked list
+2.How to use doubly linked lists
+3.Start to look for the right source of information without too much help
